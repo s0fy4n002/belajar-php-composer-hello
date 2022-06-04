@@ -1,5 +1,5 @@
 {
-  "name": "programmerzamannow/composer-library",
+  "name": "s0fy4n002/composer-library",
   "description": "library composer hello",
   "type": "library",
   "authors": [
@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ProgrammerZamanNow\\Belajar\\": "src/"
+      "s0fy4n002\\Belajar\\": "src/"
     }
   }
 }

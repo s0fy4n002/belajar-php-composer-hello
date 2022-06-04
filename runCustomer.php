@@ -2,7 +2,7 @@
 
 require_once __DIR__ . "/vendor/autoload.php";
 
-use ProgrammerZamanNow\Belajar\Customer;
+use s0fy4n002\Belajar\Customer;
 
 $customer = new Customer("yayan");
 
